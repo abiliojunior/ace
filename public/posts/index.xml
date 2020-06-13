@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AutoCAD Electrical Projetos</title>
+    <link>https://aceexprojetos.netlify.app/posts/</link>
+    <description>Recent content in Posts on AutoCAD Electrical Projetos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt_br</language>
+    <lastBuildDate>Fri, 12 Jun 2020 23:01:42 -0300</lastBuildDate>
+    
+	<atom:link href="https://aceexprojetos.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://aceexprojetos.netlify.app/posts/my-first-post/</link>
+      <pubDate>Fri, 12 Jun 2020 23:01:42 -0300</pubDate>
+      
+      <guid>https://aceexprojetos.netlify.app/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
