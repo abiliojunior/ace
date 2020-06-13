@@ -5,11 +5,22 @@
     <link>https://aceexprojetos.netlify.app/</link>
     <description>Recent content on AutoCAD Electrical Projetos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
+    <language>pt_br</language>
     <lastBuildDate>Fri, 12 Jun 2020 23:01:42 -0300</lastBuildDate>
     
 	<atom:link href="https://aceexprojetos.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Instalando ao AutoCAD</title>
+      <link>https://aceexprojetos.netlify.app/inicio/instalacao/</link>
+      <pubDate>Thu, 17 Oct 2019 15:26:15 +0000</pubDate>
+      
+      <guid>https://aceexprojetos.netlify.app/inicio/instalacao/</guid>
+      <description>Download Hugo theme, configure, preview site &amp;hellip;
+[Configuration] You may specify options in config.toml (or config.yaml/config.json) of your site to make use of this theme&amp;rsquo;s features.
+[Screenshot] </description>
+    </item>
     
     <item>
       <title>My First Post</title>
