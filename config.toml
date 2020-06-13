@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://aceexprojetos.netlify.app/"
+languageCode = "pt-br"
+title = "AutoCAD Electrical Projetos"
 theme = "techdoc"
