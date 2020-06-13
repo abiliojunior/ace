@@ -15,12 +15,6 @@ enableMissingTranslationPlaceholders = false
 
     # Source Code repository section
     description = "Autocad Descrição"
-    # github_repository = "https://github.com/thingsym/hugo-theme-techdoc"
-    # version = "0.9.1"
-
-    # Documentation repository section
-    # documentation repository (set edit link to documentation repository)
-    # github_doc_repository = "https://github.com/thingsym/hugo-theme-techdoc"
 
     # Analytic section
     google_analytics_id = "" # Your Google Analytics tracking id
